@@ -1,4 +1,4 @@
-#Miray ChatBot
+ # Miray_ChatBot
 Miray is your smart daily life assistant chatbot, designed to help you manage tasks, reminders, and productivity routines while also serving as an intelligent conversational partner. By combining practical task management with advanced AI, Miray brings convenience, organization, and assistance to your daily life.
 
 With Miray, users can:
